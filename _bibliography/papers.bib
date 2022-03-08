@@ -5,6 +5,7 @@
 @inproceedings{10.1145/3372224.3419185,
 abbr={MobiCom},
 selected={true},
+website={https://bit.ly/37faRT9},
 abstract={The demand for mobile video streaming has experienced tremendous growth over the last decade. However, existing methods of video delivery fall short of delivering high-quality video. Recent advances in neural super-resolution have opened up the possibility of enhancing video quality by leveraging client-side computation. Unfortunately, mobile devices cannot benefit from this because it is too expensive in computation and power-hungry.
 To overcome the limitation, we present NEMO, a system that enables real-time video super-resolution on mobile devices. NEMO applies neural super-resolution to a few select frames and transfers the outputs to benefit the remaining frames. The frames to which super-resolution is applied are carefully chosen to maximize the overall quality gains. NEMO leverages fine-grained dependencies using information from the video codec and strives to provide guarantees in the quality degradation compared to per-frame super-resolution. Our evaluation using a full system implementation on Android shows NEMO improves the overall processing throughput by x11.5, reduces energy consumption by 88.6%, and maintains device temperatures at acceptable levels compared to per-frame super-resolution, while ensuring high video quality. Overall, this leads to a 31.2% improvement in quality of experience for mobile users.},
 pdf={3372224.3419185.pdf},
@@ -28,6 +29,7 @@ selected={true},
 abstract={Live video accounts for a significant volume of today's Internet video. Despite a large number of efforts to enhance user quality of experience (QoE) both at the ingest and distribution side of live video, the fundamental limitations are that streamer's upstream bandwidth and computational capacity limit the quality of experience of thousands of viewers.
 To overcome this limitation, we design LiveNAS, a new live video ingest framework that enhances the origin stream's quality by leveraging computation at ingest servers. Our ingest server applies neural super-resolution on the original stream, while imposing minimal overhead on ingest clients. LiveNAS employs online learning to maximize the quality gain and dynamically adjusts the resource use to the real-time quality improvement. LiveNAS delivers high-quality live streams up to 4K resolution, outperforming WebRTC by 1.96 dB on average in Peak-Signal-to-Noise-Ratio on real video streams and network traces, which leads to 12%-69% QoE improvement for live stream viewers.},
 pdf={3387514.3405856.pdf},
+website={https://bit.ly/3KxbCW5},
 author = {Kim, Jaehong and Jung, Youngmok and Yeo, Hyunho and Ye, Juncheol and Han, Dongsu},
 title = {Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning},
 year = {2020},
@@ -51,6 +53,7 @@ abbr={OSDI},
 selected={true},
 abstract={Internet video streaming has experienced tremendous growth over the last few decades. However, the quality of existing video delivery critically depends on the bandwidth resource. Consequently, user quality of experience (QoE) suffers inevitably when network conditions become unfavorable. We present a new video delivery framework that utilizes client computation and recent advances in deep neural networks (DNNs) to reduce the dependency for delivering high-quality video. The use of DNNs enables us to enhance the video quality independent to the available bandwidth. We design a practical system that addresses several challenges, such as client heterogeneity, interaction with bitrate adaptation, and DNN transfer, in enabling the idea. Our evaluation using 3G and broadband network traces shows the proposed system outperforms the current state of the art, enhancing the average QoE by 43.08% using the same bandwidth budget or saving 17.13% of bandwidth while providing the same user QoE.},
 pdf={osdi18yeo.pdf},
+website={https://bit.ly/3IWStw7},
 author = {Hyunho Yeo and Youngmok Jung and Jaehong Kim and Jinwoo Shin and Dongsu Han},
 title = {Neural Adaptive Content-aware Internet Video Delivery},
 booktitle = {13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18)},
@@ -65,7 +68,7 @@ month = oct,
 
 @inproceedings{10.1145/3152434.3152440,
 abbr={HotNets},
-selected={true},
+selected={false},
 abstract={Much effort has been put into video delivery infrastructure for scaling video delivery and enhancing quality of experience.
 Existing designs successfully combine traditional systems and networking approaches to achieve the goals.
 This paper explores unforeseen opportunities  enabled by recent advances in deep learning.

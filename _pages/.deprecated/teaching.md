@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: assets/pdf/hyunho_cv_dup.pdf
+permalink: assets/pdf/hyunho_cv.pdf
 title: CV
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
