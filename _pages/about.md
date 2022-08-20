@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>chaos5958@gmail.com</a> | <a href='https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=en'>Google Scholar</a> | <a href='assets/pdf/hyunho_cv.pdf'>CV</a>
+subtitle: <a href='#'>hyunho5958@gmail.com</a> | <a href='https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/hyunho-yeo-3a16601b4/'>Linkedin</a> | <a href='assets/pdf/hyunho_cv.pdf'>CV</a>
 
 profile:
   align: right
@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year Ph.D. student in Electrical Engineering at KAIST advised by <a href='https://ina.kaist.ac.kr/~dongsuh/'>Professor Dongsu Han</a>.
-I received B.S. in Electrical Engineering from KAIST. 
+I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. I received B.S. in Electrical Engineering from KAIST.
 
-My research interests are incorporating deep learning (DL) techniques with computing and networking systems to drastically improve performance.
-Recently, I have focused on 1) leveraging neural quality enhancement to make video systems more efficient and 2) accelerating neural enhancement to enable it on large-scale, distributed applications.
+My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to networked systems (especially video) to handle the fundamental limitations of traditional systems. In particular, I worked on two research directions - 1) AI for systems: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI: accelerate and scale-out ML-augmented networked systems to make them more practical. 
+
+**I'm currently on the job market.** I'm looking for a US-based tech company where I can learn new things, tackle challenging problems, and build hyper-scale systems that have a real-world impact. Feel free to contact me!
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
