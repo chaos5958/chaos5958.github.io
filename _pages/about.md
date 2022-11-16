@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. I received B.S. in Electrical Engineering from KAIST.
+I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) AI for systems[HotNets'17, OSDI'18]: incorporate ML with existing systems, and 2) Systems for AI[SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate ML-augmented systems at scale.
 
-My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to networked systems (especially video) to handle the fundamental limitations of traditional systems. In particular, I worked on two research directions - 1) AI for systems: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI: accelerate and scale-out ML-augmented networked systems to make them more practical. 
-
-**I'm currently on the job market.** I'm looking for a **tech company located in the Bay Area or Seattle** where I can learn new things, tackle challenging problems, and build hyper-scale systems that have a real-world impact. Feel free to contact me!
+**I'm currently looking for a US-based tech company located in the Bay Area or Seattle**, where I can tackle challenging problems by building hyper-scale systems that have a huge real-world impact.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
