@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) AI for systems[HotNets'17, OSDI'18]: incorporate ML with existing systems, and 2) Systems for AI[SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate ML-augmented systems at scale.
+I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. 
+
+My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) AI for systems [HotNets'17, OSDI'18]: incorporate ML with existing systems, and 2) Systems for AI [SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate ML-augmented systems at scale.
 
 **I'm currently looking for a US-based tech company located in the Bay Area or Seattle**, where I can tackle challenging problems by building hyper-scale systems that have a huge real-world impact.
 
