@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>hyunho5958@gmail.com</a> | <a href='https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/hyunho-yeo-3a16601b4/'>Linkedin</a> | <a href='assets/pdf/hyunho_cv.pdf'>CV</a>
+subtitle: <a href='#'>hyunho.yeo@kaist.ac.kr</a> | <a href='https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/hyunho-yeo-3a16601b4/'>Linkedin</a> | <a href='assets/pdf/hyunho_cv.pdf'>CV</a>
 
 profile:
   align: right
