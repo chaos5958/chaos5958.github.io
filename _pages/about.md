@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. 
+I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. **I am currently looking for a US-based tech company located in the Bay Area or Seattle**.
 
-My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) AI for systems [HotNets'17, OSDI'18]: incorporate ML with existing systems, and 2) Systems for AI [SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate ML-augmented systems at scale.
-
-**I am currently looking for a US-based tech company located in the Bay Area or Seattle**, where I can tackle challenging problems by building hyper-scale systems that have a huge real-world impact.
+My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) ML-powered video streaming [HotNets'17, OSDI'18]: build new video streaming that applies neural quality enhancement to video utilizing client computation, and 2) Systems for large-scale ML [SIGCOMM'20, MobiCom'20, SIGCOMM'22]: build resource-efficient training and inference frameworks to enable ML-powered video streaming on larger scales.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
