@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. **I am currently looking for a US-based tech company located in the Bay Area or Seattle**.
+I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. **I am currently looking for a tech company located in the Bay Area or Seattle or Seoul**.
 
 I have worked on AI/ML and video systems for over six years, publishing papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. I learned skills to build large-scale ML systems and utilize several ML frameworks (e.g., PyTorch, Tensorflow, TensorRT). I also have a vast repository of in-depth knowledge about video codec internals and video streaming algorithms/systems. More specifically, I've focused on two different directions. First, I developed ML-powered video streaming that applies neural quality enhancement to obtain high-definition video from lower-quality transmission. Second, I built resource-efficient training and inference frameworks to enable ML-powered video streaming on larger scales.
 
