@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**I will be joining Moloco as a ML engineer, specifically working with the ML-Infra team to build a planet-scale serving system that is highly scalable and cost-effective!**
+**I am a ML engineer at Moloco, specifically working with the ML-Infra team to build a planet-scale serving system that is highly scalable and cost-effective!**
 
 I received my Ph.D. in Electrical Engineering at KAIST, advised by Professor Dongsu Han. During my Ph.D., I have worked on ML systems and published papers at top-tier system conferences such as OSDI, SIGCOMM, MobiCom, and CVPR. Through my research, I have developed expertise in building high-performance ML systems at scale and optimizing the cost of resource-intensive ML models. I am proficient in utilizing machine learning frameworks like PyTorch, TensorFlow, and TensorRT to implement full-fledged end-to-end systems. Before that, I obtained a BS degree in Electrical Engineering from KAIST in South Korea.
 
