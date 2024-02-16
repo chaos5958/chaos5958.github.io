@@ -17,9 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**I am a Machine Learning (ML) engineer at Moloco, specifically working with the ML-Infra team to build a planet-scale serving system that is highly scalable and cost-effective!**
+**I work as a full-stack ML Engineer on the ML-Infra team at Moloco.** My responsibilities encompass building and operating hyper-scale training and inference systems, alongside crafting high-performance recommender models. Here are some indicative figures reflecting the scope of our team's operations: 1) 1 Trillion - Total monthly requests processed utilizing AI, 2) 10 Billion - Daily requests handled by our AI platform, and 3) 10 Petabytes - Fresh data ingested and processed daily.
+
+Prior to my tenure at Moloco, I pursued a PhD in Electrical Engineering at KAIST under the guidance of Professor Dongsu Han. During my doctoral studies, I focused on ML inference systems, contributing to publications in top-tier system conferences such as OSDI, SIGCOMM, MobiCom, and CVPR.
+
+<!--**I am a Machine Learning (ML) engineer at Moloco, specifically working with the ML-Infra team to build a planet-scale serving system that is highly scalable and cost-effective!**
 
 I received my Ph.D. in Electrical Engineering at KAIST, advised by Professor Dongsu Han. During my Ph.D., I have worked on ML systems and published papers at top-tier system conferences such as OSDI, SIGCOMM, MobiCom, and CVPR. Through my research, I have developed expertise in building high-performance ML systems at scale and optimizing the cost of resource-intensive ML models. I am proficient in utilizing machine learning frameworks like PyTorch, TensorFlow, and TensorRT to implement full-fledged end-to-end systems. Before that, I obtained a BS degree in Electrical Engineering from KAIST in South Korea.
+-->
 
 <!-- I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han.
 I have worked on AI/ML and video systems for over six years, publishing papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. I learned skills to build large-scale ML systems and utilize several ML frameworks (e.g., PyTorch, Tensorflow, TensorRT). I also have a vast repository of in-depth knowledge about video codec internals and video streaming algorithms/systems. More specifically, I've focused on two different directions. First, I developed ML-powered video streaming that applies neural quality enhancement to obtain high-definition video from lower-quality transmission. Second, I built resource-efficient training and inference frameworks to enable ML-powered video streaming on larger scales.
